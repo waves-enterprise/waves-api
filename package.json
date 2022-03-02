@@ -28,7 +28,7 @@
     "@types/mocha": "5.2.5",
     "browserify": "16.2.3",
     "chai": "4.1.2",
-    "karma": "3.0.0",
+    "karma": "6.3.16",
     "karma-chai": "0.1.0",
     "karma-chrome-launcher": "2.2.0",
     "karma-commonjs": "1.0.0",
